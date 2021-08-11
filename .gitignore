@@ -1,0 +1,3 @@
+# which files are ignored
+
+*.gz # all gz files are ignored
